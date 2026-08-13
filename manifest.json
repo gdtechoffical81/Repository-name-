@@ -1,0 +1,5 @@
+{
+"name":"MediRescue AI","short_name":"MediRescue","start_url":"./index.html",
+"display":"standalone","background_color":"#071326","theme_color":"#071326",
+"description":"MediRescue AI mobile emergency-assistance prototype"
+}
